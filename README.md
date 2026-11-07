@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @swampfrickingfish aka Quandale dingle
-- 👀 I’m interested in ... Tech stuff,Terminal and Linux  
-- 🌱 I’m currently learning ...i dunno
-- 💞️ I’m looking to collaborate on ...i will not collaborate
-- 📫 How to reach me ... my discord: swampfish#1438
+- im swampfrickingfish
+- i like using linux and terminals
+- i dickride ai cuz ai is cool but ai generated music or pictures are straight ass imo
+- i collaborate with deepseek
+- my discord: goofyahhsonicfan
 
 <!---
 swampfrickingfish/swampfrickingfish is a ✨ beginner ✨ noob because its `README.md` (this file) appears on your GitHub profile.
